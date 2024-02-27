@@ -11,7 +11,7 @@
 
 - 🤝 Busco ayuda en **SQL**
 
-- 💬 Preguntame sobre **por el momento, muy poco**
+- 💬 Preguntame sobre... **por el momento, muy poco**
 
 - 📫 Como contactarme **emerson.gutierrez@misena.edu.co**
 
