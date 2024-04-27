@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egcgit&label=Profile%20views&color=0e75b6&style=flat" alt="egcgit" /> </p>
 
-- 🔭 Actualmente trabajo en **Proedusoft**
+- 🔭 Actualmente trabajo en **Proedusoft** y **DeUna**
 
 - 🌱 Estoy aprendiendo **SQL, Postgres, IP, etc**
 
